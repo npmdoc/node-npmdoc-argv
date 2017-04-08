@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/argv.png?downloads=true)](https://www.npmjs.com/package/argv)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-argv/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-argv%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-argv/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-argv/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-argv%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-argv/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-argv/build/screenCapture.npmPackageListing.svg)
 
